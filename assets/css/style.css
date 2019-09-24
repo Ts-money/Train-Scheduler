@@ -12,5 +12,20 @@ body {
 .table {
     background-color:lightskyblue;
     color:black;
+}
 
+.jumbotron {
+    background-color: transparent;
+}
+
+.display-4 {
+    font-weight: 900;
+}
+
+.lead {
+    font-weight: 900;
+}
+
+#time {
+    font-weight: 900;
 }
