@@ -1,0 +1,16 @@
+.card-header{
+    background-color: lightskyblue;
+    color: black;
+    opacity: 1;
+}
+body {
+    background-image: url("../images/PP_Cam01_\(Digital\).jpg")
+}
+.btn {
+    background-color: lightskyblue;
+}
+.table {
+    background-color:lightskyblue;
+    color:black;
+
+}
